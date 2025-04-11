@@ -6,6 +6,7 @@ namespace lab4
     {
        static void main()
         {
+            Console.WriteLine("coś");
 
 
         }
